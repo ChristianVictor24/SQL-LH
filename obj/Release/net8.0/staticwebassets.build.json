@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "jc3W7+OwaI/Hlbg8/vw8JK35i0IWQ97PUEL/3ap4ukc=",
+  "Source": "Nova pasta",
+  "BasePath": "_content/Nova pasta",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Nova pasta\\wwwroot",
+      "Source": "Nova pasta",
+      "ContentRoot": "C:\\Users\\Christian\\Desktop\\Nova pasta\\wwwroot\\",
+      "BasePath": "_content/Nova pasta",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Christian\\Desktop\\Nova pasta\\wwwroot\\index.html",
+      "SourceId": "Nova pasta",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Christian\\Desktop\\Nova pasta\\wwwroot\\",
+      "BasePath": "_content/Nova pasta",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
